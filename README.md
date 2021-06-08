@@ -34,7 +34,7 @@ Get pyrogram (p)  `SESSION` from here:
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/LuckyRajputOP/MahakalMusic
-$ cd DaisyXMusic
+$ cd MahakalMusic
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
@@ -113,10 +113,9 @@ This bot is based on the original work done by [Rojserbest](http://github.com/ro
 DaisyXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @MahakalMusicBot users
 
 #### Contribtors
-- [LuckyRajput] (https://github.com/LuckyRajputOP): Dev
 - [InukaASiTH](https://github.com/InukaAsith): Dev
 - [Rojserbest](http://github.com/rojserbes): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
+- [LuckyRajput](https://github.com/LuckyRajputOP/): Dev
 - [QueenArzoo](https://github.com/QueenArzoo): Dev
 - [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
 - [AuraXNetwork](https://github.com/AuraXNetwork/AuraXMusicBot)
